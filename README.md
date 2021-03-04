@@ -13,8 +13,8 @@ ERC-20 Ethereum ekosistemindeki diğer smart contract’lerin kolayca anlayacağ
 Tokenlar akıllı kontratlar ile oluşur. Akıllı kontratlar ise solidity dili ile yazılır. PHIAToken https://remix.ethereum.org/ IDE'si ile kullanılarak yazılmıştır. İşlem kayıtlarına ise https://ropsten.etherscan.io/ adresinden ulaşılabilir.
 
 ## Linkler
-Token Sayfası: https://ropsten.etherscan.io/token/0xa811ea0699e01eba59a67d8020113b6ff4826501
-Akıllı Kontrat: https://ropsten.etherscan.io/address/0xa811ea0699e01eba59a67d8020113b6ff4826501#code
+Token Sayfası: https://ropsten.etherscan.io/token/0xa811ea0699e01eba59a67d8020113b6ff4826501<br/>
+Akıllı Kontrat: https://ropsten.etherscan.io/address/0xa811ea0699e01eba59a67d8020113b6ff4826501#code<br/>
 Gönderilen İşlem Kaydı: https://ropsten.etherscan.io/tx/0x3327a2f14e4e288cce292aeb646b9534437b24fd6ffa0d35b077cb8ece372360
 
 
